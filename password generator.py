@@ -1,3 +1,5 @@
+#Written by Jack Barker on 29/8/23
+
 import random
 str = ""
 for i in range (4):
